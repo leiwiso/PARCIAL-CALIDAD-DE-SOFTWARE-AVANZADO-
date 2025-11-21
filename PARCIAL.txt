@@ -1,0 +1,39 @@
+# RESPUESTAS – Parcial Calidad de Software Avanzado
+
+## 1. ¿Cuál es la diferencia entre un test unitario y un test de integración?
+Un **test unitario** verifica una parte muy pequeña del código, normalmente una sola función o método, de forma aislada.  
+Un **test de integración** se enfoca en cómo interactúan múltiples componentes o módulos entre sí.
+
+## 2. ¿Para qué sirve Checkstyle?
+Checkstyle sirve para **verificar el estilo del código**, asegurarse de que cumple estándares (como nombres de variables, sangrías, organización, etc.) y ayudar a mantener el código limpio y legible.
+
+## 3. ¿Qué es Maven y para qué se utiliza?
+Maven es una herramienta de gestión de proyectos que permite:
+- Compilar código,
+- Administrar dependencias,
+- Ejecutar tests,
+- Generar estructuras automáticas de proyecto.
+
+Elimina configuraciones manuales y permite trabajar de manera estandarizada.
+
+## 4. ¿Qué es un archivo `pom.xml`?
+Es el archivo principal de configuración de Maven.  
+Define:
+- Dependencias
+- Plugins
+- Información del proyecto
+- Versiones de Java
+- Configuración de herramientas (como Checkstyle)
+
+## 5. ¿Qué aporta una buena estructura de carpetas en un proyecto Java?
+Permite:
+- Mantener orden en el código
+- Facilitar el mantenimiento
+- Separar código fuente, tests y recursos
+- Cumplir estándares profesionales
+
+## 6. ¿Qué aprendiste realizando este parcial?
+(Completa esta parte con tu reflexión personal. Aquí tienes un ejemplo:)
+
+Aprendí a crear un proyecto Maven desde cero, agregar configuraciones como Checkstyle, organizar el código en la estructura recomendada y subir todo correctamente a GitHub usando comandos y VS Code.
+
